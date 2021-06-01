@@ -1,1 +1,1 @@
-console.log('Im working');
+const daysOfWeek = '1';
