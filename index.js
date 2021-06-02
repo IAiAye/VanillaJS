@@ -1,1 +1,2 @@
-const daysOfWeek = '1';
+const title = document.querySelector("#title");
+console.dir(title);
